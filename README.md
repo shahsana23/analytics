@@ -1,3 +1,4 @@
+HR Analytical Dashboard
 The HR Analytics Dashboard provides a comprehensive view of workforce insights with a key focus on employee attrition. It helps HR teams analyze turnover patterns, identify high-risk groups, and support data-driven retention strategies.
 
 
